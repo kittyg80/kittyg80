@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Kitty 
 
-<!--
-**kittyg80/kittyg80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**About me**
+![image](https://github.com/kittyg80/kittyg80/assets/116217853/6b5bb6bd-8bb8-4f0f-a263-9f2a6ecf067f) I am from Ireland 
+![image](https://github.com/kittyg80/kittyg80/assets/116217853/e2332254-6650-4f9c-bc86-4f029e852290) I am an analyst with over 15 years’ experience in generating insights and intelligence across the healthcare industry. 
+![image](https://github.com/kittyg80/kittyg80/assets/116217853/999699eb-99cc-4485-8712-0760423cc9c9) I love data and I also have a passion for digital health. 
+I recently completed a Data Analytics Career Accelerator with the London School of Economics.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I moved to New Zealand in August 2023 with my family
 -->
