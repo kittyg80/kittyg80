@@ -17,14 +17,11 @@
 - R
 
 **Other skills**
-- Team player
 - Communicator 
 - Problem solver
 - People manager
 - Project manager
 - Keen eye for detail and quality
-- Reliable and adaptable
-- Self-starter and quick learner 
 
 **Courses and Certifications**
 - LSE Data Analytics Career Accelerator (91% - High Distinction)
